@@ -27,6 +27,9 @@ Assess application health from viewpoints of various industry standard biomarker
 
 
  ### Engage & Discovery (1.5 weeks)
+ 
+#### Collect data from interviews of project participants, managers, and stakeholders to review and analyze project assets. 
+
  1. Kick off session with discussion around pain points/areas.
  2. Understand functional flow of application from functional SME.
  3. Overview of AS-IS application architecture, components and infrastructure from Technical SME.
@@ -37,6 +40,9 @@ Assess application health from viewpoints of various industry standard biomarker
 
 
  ### Analysis (2.5 Weeks)
+ 
+ #### Categorize the inputs, analyze relevant codebases, cross-check information, implement follow-up questioning, and document findings.
+
  1. Code walkthrough sessions with Tech SME to peer review the codebase for few usecases{ideally few complex, few medium and few simple use cases}. 
  2. Get/Use tool based automated code review analysis reports (like SonarQube, SourceMeter, CodeSense, CAST etc).
  3. Perform self code review of latest release/current codebase (Sampling based).
@@ -47,13 +53,15 @@ Assess application health from viewpoints of various industry standard biomarker
 
 
  ### Recommendations and Next steps (1 Week)
+ #### Identify and illustrate key areas and conclusions, and provide an executive summary of key recommendations.
+ 
  1. Executive summary supplemented with metrics from Application health assessment findings.
 
 >  Sample of metrics
 
 >  ![](https://github.com/KamleshMaliNagarro/AppHealthAssessment/blob/main/Assessment%20Score.png)
 
- 2. Detailed report on the vulnerabilities found with possible fixes.
+ 2. Detailed report on the potential pitfalls with possible fixes.
  3. Recommend immediate areas for addressing stability, maintainability, performance etc.
  4. Gap analysis report - Recommendations on approach for tech stack and infrastructure upgrades to meet technical and deployment requirements.
 

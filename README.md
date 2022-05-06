@@ -32,16 +32,16 @@ Assess application health from viewpoints of various industry standard biomarker
  3. Overview of AS-IS application architecture, components and infrastructure from Technical SME.
  4. High level walkthrough of inventory (Functional requirements, Architecture documents, Design documents, deployment designs etc.).
  5. Understand various upstream and downstream integration points. 
- 6. Share application health review checklist.
+ 6. Share application health assessment checklist.
 
 
 
  ### Analysis 
- 1. Code walkthrough sessions with Tech SME to peer review the codebase for few usecases, ideally few complex, few medium and few simple use cases. 
- 2. Get/Use tool based automated code review like SonarQube, SourceMeter, CodeSense, CAST etc.
+ 1. Code walkthrough sessions with Tech SME to peer review the codebase for few usecases{ideally few complex, few medium and few simple use cases}. 
+ 2. Get/Use tool based automated code review analysis reports (like SonarQube, SourceMeter, CodeSense, CAST etc).
  3. Perform self code review of latest release/current codebase (Sampling based).
- 4. Review of deployment architecture and scalability designs.
- 5. Validate the findings of peer and self code review from application health review checklist.
+ 4. Self review of deployment architecture and scalability designs.
+ 5. Validate the findings of peer and self code review from application health assessment checklist.
  6. Document observations that needs to be validated and reported.
 
 

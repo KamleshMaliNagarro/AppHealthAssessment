@@ -15,10 +15,9 @@ Assess application health from viewpoints of various industry standard biomarker
  1. Current integration architecture and designs.
  2. Analysis or documentation of detailed business process or functional requirements.
  3. Analysis of third party managed solutions.
- 4. In-depth application documentation and code review of all modules.
- 6. Proposing To-be architecture related changes.
- 7. Assessments and recommendations around people mgmt, project execution and cloud migration.
- 8. Bug/defect/ITSM ticket related assessments and recommending fixes.
+ 4. In-depth application documentation and code review of all modules. 
+ 5. Assessments and recommendations around people mgmt, project execution and cloud migration.
+ 6. Bug/defect/ITSM ticket related assessments and recommending fixes.
 
 
 ***
@@ -27,7 +26,7 @@ Assess application health from viewpoints of various industry standard biomarker
 ## Analysis approach
 
 
- ### Access & Discovery
+ ### Engage & Discovery
  1. Kick off session with discussion around pain points/areas.
  2. Understand functional flow of application from functional SME.
  3. Overview of AS-IS application architecture, components and infrastructure from Technical SME.
